@@ -50,7 +50,7 @@ infiniteyield.BorderSizePixel = 0
 infiniteyield.Position = UDim2.new(0.557608604, 0, 0.113154784, 0)
 infiniteyield.Size = UDim2.new(0, 105, 0, 50)
 infiniteyield.Font = Enum.Font.SourceSans
-infiniteyield.Text = "Infinite Yield"
+infiniteyield.Text = "char all Neco Arc lol"
 infiniteyield.TextColor3 = Color3.fromRGB(0, 0, 0)
 infiniteyield.TextSize = 14.000
 
@@ -61,7 +61,7 @@ TextLabel.BorderSizePixel = 0
 TextLabel.Position = UDim2.new(0, 0, 0.999638259, 0)
 TextLabel.Size = UDim2.new(0, 291, 0, 50)
 TextLabel.Font = Enum.Font.SourceSans
-TextLabel.Text = "Made By Epicdude"
+TextLabel.Text = "Neco Hax lollll"
 TextLabel.TextColor3 = Color3.fromRGB(0, 0, 0)
 TextLabel.TextSize = 14.000
 
@@ -120,7 +120,7 @@ TextLabel_2.BorderSizePixel = 0
 TextLabel_2.Position = UDim2.new(0, 0, -0.112391934, 0)
 TextLabel_2.Size = UDim2.new(0, 291, 0, 39)
 TextLabel_2.Font = Enum.Font.SourceSans
-TextLabel_2.Text = "Epicdude Gui FE"
+TextLabel_2.Text = "Neco Hax"
 TextLabel_2.TextColor3 = Color3.fromRGB(0, 0, 0)
 TextLabel_2.TextSize = 14.000
 
