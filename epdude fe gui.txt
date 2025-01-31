@@ -270,7 +270,7 @@ local function QRLV_fake_script() -- infiniteyield.Script
 	local script = Instance.new('Script', infiniteyield)
 
 	script.Parent.MouseButton1Click:Connect(function()
-		loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
+		game.Players:Chat(";char all vanilopa_7
 	end)
 end
 coroutine.wrap(QRLV_fake_script)()
