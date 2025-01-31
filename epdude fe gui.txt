@@ -27,7 +27,7 @@ ImageLabel.BorderColor3 = Color3.fromRGB(0, 0, 0)
 ImageLabel.BorderSizePixel = 0
 ImageLabel.Position = UDim2.new(0.099765256, 0, 0.160493821, 0)
 ImageLabel.Size = UDim2.new(0, 291, 0, 347)
-ImageLabel.Image = "rbxassetid://16998649057"
+ImageLabel.Image = "rbxassetid://121831483920226"
 ImageLabel.ImageTransparency = 0.600
 
 namelessadmin.Name = "nameless admin"
@@ -38,7 +38,7 @@ namelessadmin.BorderSizePixel = 0
 namelessadmin.Position = UDim2.new(0.0260595381, 0, 0.113601595, 0)
 namelessadmin.Size = UDim2.new(0, 123, 0, 50)
 namelessadmin.Font = Enum.Font.SourceSans
-namelessadmin.Text = "nameless admin"
+namelessadmin.Text = "skybox"
 namelessadmin.TextColor3 = Color3.fromRGB(0, 0, 0)
 namelessadmin.TextSize = 14.000
 
@@ -73,7 +73,7 @@ FLINGGUI.BorderSizePixel = 0
 FLINGGUI.Position = UDim2.new(0.0255069807, 0, 0.319321394, 0)
 FLINGGUI.Size = UDim2.new(0, 123, 0, 41)
 FLINGGUI.Font = Enum.Font.SourceSans
-FLINGGUI.Text = "Fling gui"
+FLINGGUI.Text = "decal spam"
 FLINGGUI.TextColor3 = Color3.fromRGB(0, 0, 0)
 FLINGGUI.TextSize = 14.000
 
